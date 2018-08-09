@@ -20,7 +20,7 @@ end
 
 def weather_report_in_nyc (weather)
   the_weather_report={:city => "New York",:description => "Partly Cloudy",:temperature_farenheit => "66.3"}
-  puts the_weather_report[The weather in #{city}
+  weather[:The weather in #{city} is #{description}. The temperature is 66.1 degrees Farenheit.  
   
 end 
 
