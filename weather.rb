@@ -20,7 +20,7 @@ end
 
 def weather_report_in_nyc (weather)
   weather[:The_weather] 
-  return the weather in {city=> "New York"} is {description=> "temperature is 66.1 degrees Farenheit."}]    
+  return the weather at {city=> "New York"} is {description=> "temperature is 66.1 degrees Farenheit."}]    
   
 end 
 
