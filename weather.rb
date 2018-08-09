@@ -18,7 +18,7 @@ end
 
 # 3. Using the methods above and string interpolation, update the method below so that it returns a string that describes the current weather - for example: "The weather in New York is Partly Cloudy. The temperature is 66.1 degrees Farenheit." HINT: the method should RETURN the string, not print it to the terminal. 
 
-def weather_report_in_nyc
+def weather_report_in_nyc (weather)
   the_weather_report={:city => "New York",:description => "Partly Cloudy",:temperature_farenheit => "66.3"}
   puts the_weather_report[The weather in #{city}
   
