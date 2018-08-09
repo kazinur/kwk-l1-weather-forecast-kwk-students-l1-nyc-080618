@@ -20,8 +20,8 @@ end
 
 def weather_report_in_nyc (weather)
   weather[:The_weather] 
-  return the weather at {city=> "New York"} is {description=> "temperature is 66.1 degrees Farenheit."}    
-  
+  return the weather at {city=> "New York"} is {description=> "The temperature is 66.1 degrees Farenheit."}    
+end 
 end 
 
 #4. Write a method that takes in the weather hash as an argument. 
